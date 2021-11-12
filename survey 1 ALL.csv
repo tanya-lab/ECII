@@ -58,7 +58,7 @@ Bachelor,22,Female,Austria,AP,1.21,20,AP,1.22,20,DEP,1.18,15,30,40,0,No,No,Yes,R
 Master,27,Female,Germany,AP,1.25,50,DEP,1.15,50,DEP,1.13,50,30,70,1,No,No,Yes,Optimist
 Master,27,Female,Austria,AP,1.22,20,AP,1.3,20,AP,1.3,10,20,40,1,No,No,Yes,Optimist
 Bachelor,24,Female,Austria,AP,1.24,80,AP,1.22,50,DEP,1.2,20,50,45,2,No,No,Yes,Realist
-Bachelor,19,Male,Austria,DEP,100,12,,,,,,,,,,N/A,N/A,N/A,
+Bachelor,19,Male,Austria,DEP,1,12,,,,,,,,,,N/A,N/A,N/A,
 Bachelor,26,Male,Austria,DEP,1.27,70,DEP,1.31,70,AP,1.25,40,65,70,1,No,No,Yes,Realist
 Master,23,Female,Germany,AP,1.25,20,DEP,1.18,20,DEP,1.15,40,10,10,1,Yes,Yes,No,Realist
 Bachelor,24,Female,Germany,AP,1.22,65,AP,1.24,45,DEP,1.19,25,40,70,0,No,No,Yes,Realist
